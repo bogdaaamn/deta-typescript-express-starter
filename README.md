@@ -1,6 +1,6 @@
 # Deta Typescript Express Starer
 
-This is a starer template for a Deta project using Node, Express and Typescript.
+This is a starter template for a Deta project using Node, Express and Typescript.
 
 ## Uses
 
